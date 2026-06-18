@@ -6,8 +6,8 @@ To implement Identity and Access Management (IAM) in AWS to securely control acc
 
 
 ```
-Name : GOWTHAM V
-Reg no: 212223100009
+Name : L yagnesh kumar reddy
+Reg no: 212223100024
 ```
 ## Algorithm
 
